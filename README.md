@@ -21,4 +21,4 @@ So far we published two apps:
 
 ## To contact us 📫
 
-If you want to contact us to report a bug or to propose us some ideas, use our email adress [lupa.dev.studio@gmail.com](lupa.dev.studio@gmail.com).
+If you want to contact us to report a bug or to propose us some ideas, use our email adress: [lupa.dev.studio@gmail.com](lupa.dev.studio@gmail.com)
