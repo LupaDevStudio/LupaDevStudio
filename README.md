@@ -17,7 +17,7 @@ If you want to discover our work, check our repositories or our [PlayStore page]
 So far we published two apps:
 
 - Tramway Collector 🚊 : an app to help you to manage a collection of tramway photos
-- Lumacryte 👻 : a game developed during the [Open Source Game Jam](https://itch.io/jam/open-source-ai-game-jam)
+- Lumacryte 👻 : an exploration game developed during the [Open Source Game Jam](https://itch.io/jam/open-source-ai-game-jam)
 
 ## To contact us 📫
 
