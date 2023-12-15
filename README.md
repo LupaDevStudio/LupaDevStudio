@@ -2,7 +2,7 @@
 
 ## About us 🗒️
 
-LupaDevStudio is a small team of Python developers interested in mobile development especially Android for now.
+Established on July 5, 2023, LupaDevStudio is an independent French studio specializing in developing applications and video games for mobile and computer platforms. We are a team of three students passionate about programming, and we founded LupaDevStudio to share our creations with you. 
 
 ## Our goal 🚀
 
@@ -14,10 +14,11 @@ To create our apps, we use the Python library [Kivy](https://kivy.org/) which al
 
 If you want to discover our work, check our repositories or our [PlayStore page](https://play.google.com/store/apps/dev?id=7601849429544070782&hl=fr&gl=US).
 
-So far we published two apps:
+So far we published three apps:
 
-- Tramway Collector 🚊 : an app to help you to manage a collection of tramway photos
-- Lumacryte 👻 : an exploration game developed during the [Open Source Game Jam](https://itch.io/jam/open-source-ai-game-jam)
+- [Postrias :t-rex:](https://play.google.com/store/apps/details?id=lupadevstudio.com.postrias) : a strategy game in a world full of dinosaurs
+- [Tramway Collector 🚊](https://play.google.com/store/apps/details?id=org.tramwaycollector) : an app to help you to manage a collection of tramway photos
+- [Lumacryte 👻](https://play.google.com/store/apps/details?id=org.lumacryte) : an exploration game developed during the [Open Source Game Jam](https://itch.io/jam/open-source-ai-game-jam)
 
 ## To contact us 📫
 
