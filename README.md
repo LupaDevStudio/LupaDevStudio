@@ -16,7 +16,7 @@ If you want to discover our work, check our repositories or our [PlayStore page]
 
 So far we published three apps:
 
-- [Postrias :t-rex:](https://play.google.com/store/apps/details?id=lupadevstudio.com.postrias) : a strategy game in a world full of dinosaurs
+- [Postrias :t-rex:](https://play.google.com/store/apps/details?id=lupadevstudio.com.postrias) : a strategy game in a post-apocalyptic world ruled by dinosaurs
 - [Tramway Collector 🚊](https://play.google.com/store/apps/details?id=org.tramwaycollector) : an app to help you to manage a collection of tramway photos
 - [Lumacryte 👻](https://play.google.com/store/apps/details?id=org.lumacryte) : an exploration game developed during the [Open Source Game Jam](https://itch.io/jam/open-source-ai-game-jam)
 
