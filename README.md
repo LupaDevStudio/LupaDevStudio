@@ -20,6 +20,10 @@ So far we published three apps:
 - [Tramway Collector 🚊](https://play.google.com/store/apps/details?id=org.tramwaycollector) : an app to help you to manage a collection of tramway photos
 - [Lumacryte 👻](https://play.google.com/store/apps/details?id=org.lumacryte) : an exploration game developed during the [Open Source Game Jam](https://itch.io/jam/open-source-ai-game-jam)
 
+## Our stats 📈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupadevstudio)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+
 ## To contact us 📫
 
 If you want to contact us to report a bug or to propose us some ideas, use our email address: [lupa.dev.studio@gmail.com](lupa.dev.studio@gmail.com)
