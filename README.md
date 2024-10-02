@@ -14,7 +14,7 @@ To create our apps, we use the Python library [Kivy](https://kivy.org/) which al
 
 If you want to discover our work, check our repositories or our [website](https://lupadevstudio.com/).
 
-So far we've published four apps, on the [Play Store](https://play.google.com/store/apps/dev?id=7601849429544070782) and the [App Store](https://apps.apple.com/us/developer/paul-creusy/id1732838959):
+So far we've published five apps, on the [Play Store](https://play.google.com/store/apps/dev?id=7601849429544070782) and the [App Store](https://apps.apple.com/us/developer/paul-creusy/id1732838959):
 
 - Linconym 🔗 on [Play Store](https://play.google.com/store/apps/details?id=lupadevstudio.com.linconym) and on [App Store](https://apps.apple.com/app/linconym/id6503208610) : a word game where you create chains of words by rearranging and changing letters 
 - Geozzle 🌎 on [Play Store](https://play.google.com/store/apps/details?id=lupadevstudio.com.geozzle&pli=1) and on [App Store](https://apps.apple.com/us/app/geozzle/id6478439292) : a geography game where you have to collect clues to guess a country
