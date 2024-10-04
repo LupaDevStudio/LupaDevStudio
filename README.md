@@ -19,7 +19,7 @@ So far we've published five apps, on the [Play Store](https://play.google.com/st
 - Linconym 🔗 on [Play Store](https://play.google.com/store/apps/details?id=lupadevstudio.com.linconym) and on [App Store](https://apps.apple.com/app/linconym/id6503208610) : a word game where you create chains of words by rearranging and changing letters 
 - Geozzle 🌎 on [Play Store](https://play.google.com/store/apps/details?id=lupadevstudio.com.geozzle&pli=1) and on [App Store](https://apps.apple.com/us/app/geozzle/id6478439292) : a geography game where you have to collect clues to guess a country
 - Postrias :t-rex: on [Play Store](https://play.google.com/store/apps/details?id=lupadevstudio.com.postrias) : a strategy game in a post-apocalyptic world ruled by dinosaurs
-- Lumacryte 👻 on [Play Store](https://play.google.com/store/apps/details?id=org.lumacryte) : an exploration game developed during the [Open Source Game Jam](https://itch.io/jam/open-source-ai-game-jam)
+- Lumacryte 👻 on [Play Store](https://play.google.com/store/apps/details?id=org.lumacryte) : an exploration game developed during the [Open Source AI Game Jam](https://itch.io/jam/open-source-ai-game-jam)
 - Tramway Collector 🚊 on [Play Store](https://play.google.com/store/apps/details?id=org.tramwaycollector) : an app to help you to manage a collection of tramway photos
 
 ## Our stats 📈
